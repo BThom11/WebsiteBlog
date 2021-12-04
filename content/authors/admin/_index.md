@@ -65,5 +65,3 @@ I am currently a Statistical Analyst with Colorado public health, with a past in
 
 I received my M.S. in Cognitive Sciences from UC Irvine, where I focused on Bayesian Cognitive Modeling, and models of judgement and decision making with Michael Lee.
 More generally I love working with complex behavioral data, and developing statistical models to help handle that complexity and better test hypotheses.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
