@@ -62,7 +62,8 @@ highlight_name: true
 ---
 
 I am currently a Statistical Analyst with Colorado public health, with a past in quantitative UX research at Facebook, and DAT. I've lived in CO most of my life, and have the classic hobbies of mtn biking, climbing, & skiing to reflect it.
-I received my M.S. in Cognitive Sciences from UC Irvine, where I focused on Bayesian Cognitive Modeling, and models of judgement and decision making with Michael Lee
+
+I received my M.S. in Cognitive Sciences from UC Irvine, where I focused on Bayesian Cognitive Modeling, and models of judgement and decision making with Michael Lee.
 More generally I love working with complex behavioral data, and developing statistical models to help handle that complexity and better test hypotheses.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
