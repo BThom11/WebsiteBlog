@@ -11,7 +11,7 @@ date: "2020-09-4T00:00:00Z"
 #external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 
 #links:
